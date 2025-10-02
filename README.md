@@ -1,2 +1,2 @@
 # JackSteffan.github.io
-# This is the updated readme
+I have the template in /layouts for future pages, a simple home page with style from css, and I have updated my readme.
